@@ -64,7 +64,12 @@ Relying on this idea, the aim was to extract different features (shades, edges, 
 The output of the filter is a matrix pixels. After a conversion, the matrix data are ready to be played. In particular they are divided in order to form some frequency bands and each of these bands is sent to a synthesizer. 
 The simultaneous play of several synths forms the resulting spectrogram and creates dynamic and complex sound since the synthesizers may cover the entire audio bandwidth.
 
+### Here below the links about the Demo and the application itself
 
+https://www.youtube.com/watch?v=VtclPdXcr4Q&feature=youtu.be&fbclid=IwAR2tocxsNlFDJn6cqC6mFlzKy0_D7sXu3lyCTNbhJ45baZAizF6uKleAWBY
+
+
+https://devkuvia.github.io/SpecrtoID/
 
 
 
