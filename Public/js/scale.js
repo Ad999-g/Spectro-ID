@@ -27,7 +27,7 @@ var intervalSad;
 var intervalSurprise;
 var intervalAngry;
 
-var triadHappy = [0, 4 ,7 ,10 ,12];
+var triadHappy = [0, 4 ,7 ,11 ,12];
 var triadSad = [0, 3, 7, 10, 12];
 var triadSurprise = [0, 4, 8, 12];
 var triadAngry = [0, 3, 6, 9, 12]; 
